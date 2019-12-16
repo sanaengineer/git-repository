@@ -1,2 +1,2 @@
-# git-repository
-I have to finish learing git
+# git-github
+This is my central repository
